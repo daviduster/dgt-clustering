@@ -7,5 +7,5 @@ Una compañia aseguradora quiere comprender mejor las dinámicas en accidentes d
 ## Technologies
 Project is created with:
 * Python 3.8.6 
-* Sklearn library for machine learning models (everything in the [code](code) directory)
-* Jupyter notebooks
+* Sklearn 
+* Jupyter notebooks ([notebooks](notebooks) directory)
